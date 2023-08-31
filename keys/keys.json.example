@@ -1,0 +1,16 @@
+[	
+    {
+		"type": "CATEGORY",
+		"name": "NAME",
+		"public": "0x....",
+		"private": "0x...",
+		"seed": "words words words..."
+	},
+    {
+		"type": "CATEGORY",
+		"name": "NAME",
+		"public": "0x....",
+		"private": "0x...",
+		"seed": "words words words..."
+	},
+]
