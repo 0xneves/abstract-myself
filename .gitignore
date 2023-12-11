@@ -5,3 +5,5 @@ yarn.lock
 decoded_output.json
 encoded_output.json
 /keys/keys.json
+/keys/
+keys/
