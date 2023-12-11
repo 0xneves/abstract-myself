@@ -4,3 +4,4 @@ yarn.lock
 .env
 decoded_output.json
 encoded_output.json
+keys.json
